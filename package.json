@@ -4,7 +4,7 @@
   "description": "Rewrite url references in CSS and copyed CSS assets",
   "main": "index.js",
   "dependencies": {
-    "file-exists": "^2.0.0",
+    "file-exists": "^5.0.1",
     "fs": "0.0.1-security",
     "md5": "^2.2.1",
     "merge": "^1.2.0",
